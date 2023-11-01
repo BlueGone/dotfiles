@@ -1,0 +1,5 @@
+zmodule input
+
+zmodule joke/zim-starship
+zmodule zsh-users/zsh-autosuggestions
+zmodule zsh-users/zsh-syntax-highlighting
